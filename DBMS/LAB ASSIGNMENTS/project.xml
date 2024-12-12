@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<PROJECT_MCS1017>
+    <PROJECT>
+        <PROJECT_ID>P101</PROJECT_ID>
+        <PROJECT_NAME>GITHUB</PROJECT_NAME>
+        <DID>D001</DID>
+    </PROJECT>
+    <PROJECT>
+        <PROJECT_ID>P102</PROJECT_ID>
+        <PROJECT_NAME>CODEMASTER</PROJECT_NAME>
+        <DID>D002</DID>
+    </PROJECT>
+    <PROJECT>
+        <PROJECT_ID>P103</PROJECT_ID>
+        <PROJECT_NAME>VSCODE</PROJECT_NAME>
+        <DID>D003</DID>
+       
+    </PROJECT>
+    <PROJECT>
+        <PROJECT_ID>P104</PROJECT_ID>
+        <PROJECT_NAME>AWS</PROJECT_NAME>
+        <DID>D004</DID>
+       
+    </PROJECT>
+    <PROJECT>
+        <PROJECT_ID>P105</PROJECT_ID>
+        <PROJECT_NAME>COPILOT</PROJECT_NAME>
+        <DID>D005</DID>
+    </PROJECT>
+</PROJECT_MCS1017>
+
+

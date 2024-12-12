@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DEPARTMENT_MCS1017>
+    <DEPARTMENT>
+        <DEPT_ID>D001</DEPT_ID>
+        <DEPT_NAME>Human Resources</DEPT_NAME>
+    </DEPARTMENT>
+    <DEPARTMENT>
+        <DEPT_ID>D002</DEPT_ID>
+        <DEPT_NAME>Finance</DEPT_NAME>
+    </DEPARTMENT>
+    <DEPARTMENT>
+        <DEPT_ID>D003</DEPT_ID>
+        <DEPT_NAME>IT Support</DEPT_NAME>
+    </DEPARTMENT>
+    <DEPARTMENT>
+        <DEPT_ID>D004</DEPT_ID>
+        <DEPT_NAME>Marketing</DEPT_NAME>
+    </DEPARTMENT>
+    <DEPARTMENT>
+        <DEPT_ID>D005</DEPT_ID>
+        <DEPT_NAME>Research and Development</DEPT_NAME>
+    </DEPARTMENT>
+</DEPARTMENT_MCS1017>
+
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<EMPLOYEE_MCS1017>
+    <EMPLOYEE>
+        <EMP_ID>E2000</EMP_ID>
+        <NAME>John Doe</NAME>
+        <GENDER>Male</GENDER>
+        <SALARY>75000</SALARY>
+        <DEPT_ID>D001</DEPT_ID>
+        <PID>P1001</PID>
+        <DOJ>2022-05-15</DOJ>
+    </EMPLOYEE>
+    <EMPLOYEE>
+        <EMP_ID>E2001</EMP_ID>
+        <NAME>Jane Smith</NAME>
+        <GENDER>Female</GENDER>
+        <SALARY>65000</SALARY>
+        <DEPT_ID>D002</DEPT_ID>
+        <PID>P1002</PID>
+        <DOJ>2023-04-10</DOJ>
+    </EMPLOYEE>
+    <EMPLOYEE>
+        <EMP_ID>E2002</EMP_ID>
+        <NAME>Mike Brown</NAME>
+        <GENDER>Male</GENDER>
+        <SALARY>55000</SALARY>
+        <DEPT_ID>D003</DEPT_ID>
+        <PID>P1003</PID>
+        <DOJ>2023-07-20</DOJ>
+    </EMPLOYEE>
+    <EMPLOYEE>
+        <EMP_ID>E2003</EMP_ID>
+        <NAME>Emily Wilson</NAME>
+        <GENDER>Female</GENDER>
+        <SALARY>72000</SALARY>
+        <DEPT_ID>D004</DEPT_ID>
+        <PID>P1004</PID>
+        <DOJ>2022-09-05</DOJ>
+    </EMPLOYEE>
+    <EMPLOYEE>
+        <EMP_ID>E2004</EMP_ID>
+        <NAME>Chris Johnson</NAME>
+        <GENDER>Male</GENDER>
+        <SALARY>80000</SALARY>
+        <DEPT_ID>D005</DEPT_ID>
+        <PID>P1002</PID>
+        <DOJ>2021-12-30</DOJ>
+    </EMPLOYEE>
+</EMPLOYEE_MCS1017>

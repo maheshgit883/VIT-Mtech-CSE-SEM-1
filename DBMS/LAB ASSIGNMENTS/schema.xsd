@@ -1,0 +1,53 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="DEPARTMENT_MCS1017">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="DEPARTMENT" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="DEPT_ID" type="xs:string"/>
+                            <xs:element name="DEPT_NAME" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="PROJECT_MCS1017">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="PROJECT" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="PROJECT_ID" type="xs:string"/>
+                            <xs:element name="PROJECT_NAME" type="xs:string"/>
+                            <xs:element name="DID" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+    <xs:element name="EMPLOYEE_MCS1017">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="EMPLOYEE" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="EMP_ID" type="xs:string"/>
+                            <xs:element name="NAME" type="xs:string"/>
+                            <xs:element name="GENDER" type="xs:string"/>
+                            <xs:element name="SALARY" type="xs:decimal"/>
+                            <xs:element name="DEPT_ID" type="xs:string"/>
+                            <xs:element name="PID" type="xs:string"/>
+                            <xs:element name="DOJ" type="xs:date"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
