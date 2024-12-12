@@ -1,2 +1,1 @@
-HOPE THIS HELPS YOU IN BETTER PREPARATION .
-LIKE IF YOU LIKED.
+Hope this helps you prepare better! Star this repo if you find it useful.😀👍
